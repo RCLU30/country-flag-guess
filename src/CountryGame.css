@@ -1,0 +1,25 @@
+#banner {
+  width: 80%;
+  height: auto;
+  border: 2px solid black;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #6b93d6
+  /*align-self: flex-end;*/
+}
+
+.title-text {
+  font-size: 3.0em;
+  color: #e9eff9;
+  text-shadow: 3px 3px 4px black;
+}
+
+@media (max-width: 450px) {
+  #banner {
+    height: 14vh;
+  }
+
+  .title-text {
+    font-size: 2.1em;
+  }
+}

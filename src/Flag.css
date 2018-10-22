@@ -1,0 +1,14 @@
+.image {
+  display:block;
+  margin: 0 auto;
+  width: 450px;
+  height: auto;
+  border: 1px solid black;
+}
+
+#flag-area{
+  /*justify-content: center;*/
+  display: block;
+  padding: 5px;
+
+}

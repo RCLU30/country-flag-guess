@@ -1,0 +1,23 @@
+.selections{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+.selections ul {
+  padding-left: 10px;
+}
+
+.selections button {
+  text-align: center;
+}
+.country-choice{
+}
+
+
+.country-choice {
+  list-style: none;
+}
