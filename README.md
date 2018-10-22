@@ -13,4 +13,4 @@ App built in [cloud9](https://ide.c9.io/rickylu/adv-web-dev).
  4. Open link created from `npm` and begin playing the game
 
 # Demo
-![GIF demo of app](dklfjlkdfjl.jpg)
+![GIF demo of app](https://github.com/RCLU30/country-flag-guess/blob/master/country-game-demo.gif)
