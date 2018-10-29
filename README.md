@@ -6,7 +6,7 @@ A simple country flag guessing game web application assignment from [The Advance
 App built in [cloud9](https://ide.c9.io/rickylu/adv-web-dev).
 
 # Link to app
-[https://morning-journey-28568.herokuapp.com/](https://morning-journey-28568.herokuapp.com/)
+[Click Here](https://country-flag-guess-game.herokuapp.com/)
 
 # Usage
 
@@ -15,5 +15,5 @@ App built in [cloud9](https://ide.c9.io/rickylu/adv-web-dev).
  3. Run app using `npm start`.
  4. Open link created from `npm` and begin playing the game
 
-# Demo
+# GIF Demo
 ![GIF demo of app](https://github.com/RCLU30/country-flag-guess/blob/master/country-game-demo.gif)
