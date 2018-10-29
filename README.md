@@ -8,12 +8,5 @@ App built in [cloud9](https://ide.c9.io/rickylu/adv-web-dev).
 # Link to app
 [Click Here](https://country-flag-guess-game.herokuapp.com/)
 
-# Usage
-
- 1. Download or clone the files and install the dependencies listed in the `package.json`
- 2. `cd` into directory where all files are located
- 3. Run app using `npm start`.
- 4. Open link created from `npm` and begin playing the game
-
 # GIF Demo
 ![GIF demo of app](https://github.com/RCLU30/country-flag-guess/blob/master/country-game-demo.gif)
