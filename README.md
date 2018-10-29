@@ -5,6 +5,9 @@ A simple country flag guessing game web application assignment from [The Advance
 
 App built in [cloud9](https://ide.c9.io/rickylu/adv-web-dev).
 
+# Link to app
+[https://morning-journey-28568.herokuapp.com/](https://morning-journey-28568.herokuapp.com/)
+
 # Usage
 
  1. Download or clone the files and install the dependencies listed in the `package.json`
