@@ -3,8 +3,6 @@
 A simple country flag guessing game web application assignment from [The Advanced Web Developer Bootcamp
 ](https://www.udemy.com/the-advanced-web-developer-bootcamp/) using ReactJS using the [Rest Countries API](https://restcountries.eu/rest/v2/all). 
 
-App built in [cloud9](https://ide.c9.io/rickylu/adv-web-dev).
-
 # Link to app
 [Click Here](https://country-flag-guess-game.herokuapp.com/)
 
