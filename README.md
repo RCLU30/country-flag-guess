@@ -5,6 +5,7 @@ A simple country flag guessing game web application assignment from [The Advance
 
 # Link to app
 [Click Here](https://country-flag-guess-game.herokuapp.com/)
+Note: the app is hosted on Heroku. If the website has not been active for some time, it may take a while for the page to load.
 
 # GIF Demo
 ![GIF demo of app](https://github.com/RCLU30/country-flag-guess/blob/master/country-game-demo.gif)
